@@ -1,0 +1,14 @@
+{
+  "name": "cifra-cesar-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "js-sha1": "^0.6.0",
+    "request": "^2.88.2",
+    "write-json-file": "^4.3.0"
+  }
+}
